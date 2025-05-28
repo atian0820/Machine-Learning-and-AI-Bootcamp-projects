@@ -1,0 +1,5 @@
+train: train/images
+val: val/images
+
+nc: 25
+names: ['battery', 'buzzer', 'clock', 'diode', 'emi_filter', 'fuse', 'ic', 'jumper', 'potentiometer', 'transformer', 'button', 'capacitor', 'connector', 'display', 'ferrite_bead', 'heatsink', 'inductor', 'led', 'resistor', 'transistor', 'pads', 'pins', 'resistor_network', 'electrolytic_capacitor', 'text']
